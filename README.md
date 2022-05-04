@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @christinaotoboh
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning python for data science
-- 💞️ I’m looking to collaborate on data science projects
+- 👋 Hi, I’m @christianaotoboh
+- 👀 I’m interested in data analytics
+- 🌱 I’m currently learning Sql
+- 💞️ I’m looking to collaborate on data analytics
 - 📫 How to reach me christianaotoboh@gmail.com
 
 
