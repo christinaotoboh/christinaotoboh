@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @christianaotoboh
-- 👀 I’m interested in data analytics
-- 🌱 I’m currently learning Sql
-- 💞️ I’m looking to collaborate on data analytics
+- 👀 I'm a data analyst with over 3 years work experience
+- 🌱 I'm proficient in SQL, DAX, python and 
+- 💞️ I’m looking to collaborate on more projects 
 - 📫 How to reach me christianaotoboh@gmail.com
 
 
