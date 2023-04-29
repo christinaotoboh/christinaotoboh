@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @christianaotoboh
-- 👀 I'm a data analyst with over 3 years work experience
-- 🌱 I'm proficient in SQL, DAX, python and 
+- 👀 I'm a data analyst with over 3 years work experience and I am transitioning into DevOps Engineering
+- 🌱 I'm proficient in SQL, DAX, python 
 - 💞️ I’m looking to collaborate on more projects 
 - 📫 How to reach me christianaotoboh@gmail.com
 
